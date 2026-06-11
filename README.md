@@ -9,7 +9,7 @@ A keyboard-driven app switcher for macOS. Press a hotkey to bring up a floating 
 1. Press **Option+a** (customizable) to open the switcher panel
 2. Each running app gets a hint key label (A, S, D, F, G, H, J, K, L, etc.)
 3. Press the hint key to switch to that app
-4. Press **Escape** to dismiss
+4. Press **Escape** or hotkey again to dismiss
 
 ## Features
 
