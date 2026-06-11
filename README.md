@@ -38,7 +38,7 @@ A keyboard-driven app switcher for macOS. Press a hotkey to bring up a floating 
 |--------|-----------------|
 | Open switcher panel | Option+a |
 | Switch to app | Press the hint key |
-| Dismiss panel | Escape |
+| Dismiss panel | Escape/hotkey |
 | Preferences | Menu bar → Preferences... (Cmd+,) |
 
 ## Version History
