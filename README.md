@@ -29,10 +29,8 @@ A keyboard-driven app switcher for macOS. Press a hotkey to bring up a floating 
 
 ## Installation
 
-1. Open the DMG
-2. Drag **Yo App Switcher** to the **Applications** folder
-3. Launch from Applications
-4. Grant Accessibility permission when prompted (System Settings → Privacy & Security → Accessibility)
+1. Launch from Applications
+2. Grant Accessibility permission when prompted (System Settings → Privacy & Security → Accessibility)
 
 ## Usage
 
