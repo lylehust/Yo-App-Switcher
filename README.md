@@ -1,5 +1,7 @@
 # Yo App Switcher
 
+![App Screenshot](YoAppSwitcher.png)
+
 A keyboard-driven app switcher for macOS. Press a hotkey to bring up a floating frosted-glass panel showing all running Dock apps with Vimium-style hint labels — then press the hint key to switch instantly.
 
 ## How It Works
