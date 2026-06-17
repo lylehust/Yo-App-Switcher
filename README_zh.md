@@ -41,6 +41,10 @@ macOS 键盘驱动应用切换器。按下快捷键呼出浮动毛玻璃面板�
 | 关闭面板 | Escape / 快捷键 |
 | 偏好设置 | 菜单栏 → Preferences... (Cmd+,) |
 
+## 下载链接   
+
+https://apps.apple.com/us/app/yoappswitcher/id6778926070?mt=12
+
 ## 版本历史
 
 **0.2** — 初始版本
