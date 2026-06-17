@@ -44,3 +44,7 @@ A keyboard-driven app switcher for macOS. Press a hotkey to bring up a floating 
 ## Version History
 
 **0.2** — Initial release
+
+## Download Link  
+
+https://apps.apple.com/us/app/yoappswitcher/id6778926070?mt=12
