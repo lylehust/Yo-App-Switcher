@@ -42,7 +42,7 @@ A keyboard-driven app switcher for macOS. Press a hotkey to bring up a floating 
 | Preferences | Menu bar → Preferences... (Cmd+,) |
 
 ## Version History
-
+**1.05** — App icon update, xcodegen scheme configuration  
 **0.2** — Initial release
 
 ## Download Link  
