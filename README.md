@@ -42,6 +42,7 @@ A keyboard-driven app switcher for macOS. Press a hotkey to bring up a floating 
 | Preferences | Menu bar → Preferences... (Cmd+,) |
 
 ## Version History
+**1.6** — Launch at login reliability fix for older macOS, version display cleanup  
 **1.05** — App icon update  
 **0.2** — Initial release
 
