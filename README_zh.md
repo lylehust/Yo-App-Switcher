@@ -1,6 +1,6 @@
 # Yo App Switcher（Yo 应用切换器）
 
-![App Screenshot](YoAppSwitcher2.png)
+![App Screenshot](YoAppSwitcher-2.png)
 
 macOS 键盘驱动应用切换器。按下快捷键呼出浮动毛玻璃面板，显示所有正在运行的 Dock 应用图标，并附带 Vimium 风格的提示键标签——按下提示键即可瞬间切换。
 
@@ -42,6 +42,7 @@ macOS 键盘驱动应用切换器。按下快捷键呼出浮动毛玻璃面板�
 | 偏好设置 | 菜单栏 → Preferences... (Cmd+,) |
 
 ## 版本历史
+**1.9** - 重新设计切换面板，半透明背景，跨版本兼容
 **1.6** — 修复旧版 macOS 开机自启问题，简化版本号显示  
 **1.05** — 应用图标更新  
 **0.2** — 初始版本
