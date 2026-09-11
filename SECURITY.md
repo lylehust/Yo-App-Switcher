@@ -14,8 +14,8 @@ You can expect:
 
 | Version | Supported          |
 |---------|--------------------|
-| 1.9+    | Active support     |
-| < 1.9   | Best-effort fixes  |
+| 2.0+    | Active support     |
+| < 2.0   | Best-effort fixes  |
 
 ## Security Model
 
@@ -40,6 +40,7 @@ Yo App Switcher is a native macOS menu bar application. It does not transmit dat
 
 - Built as a universal binary (arm64 + x86_64)
 - Signed with a **Developer ID Application** certificate
+- DMG is code-signed and timestamped
 - Notarized by Apple for Gatekeeper compliance
 - Runs with the `com.apple.security.app-sandbox` entitlement
 
