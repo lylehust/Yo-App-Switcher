@@ -48,6 +48,7 @@ A recorded shortcut must include a modifier (⌘, ⌥ or ⌃), or be a function 
 
 ## Version History
 
+**2.0.1** — Preferences now shows your Accessibility permission status with a direct link to System Settings, adds the required privacy manifest, and fixes a rare shortcut-recording race  
 **2.0** — Clamps the panel to the screen, requires a modifier in recorded shortcuts, correct app activation on macOS 14+, dark mode support, panel closes when it loses focus, layout-aware key names, hotkey/launch-at-login failures are surfaced, expanded test suite  
 **1.9** — Updated app icon, adjusted panel background styling  
 **1.8** — Reworked app switcher panel with semi-transparent background, cross-version compatibility  
