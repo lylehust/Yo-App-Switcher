@@ -14,8 +14,8 @@ You can expect:
 
 | Version | Supported          |
 |---------|--------------------|
-| 2.0.2+  | Active support     |
-| < 2.0.2 | Best-effort fixes  |
+| 2.0.3+  | Active support     |
+| < 2.0.3 | Best-effort fixes  |
 
 ## Security Model
 
